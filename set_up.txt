@@ -1,0 +1,7 @@
+***Python***
+$ sudo add-apt-repository ppa:deadsnakes/ppa[ENTER]
+$ sudo apt-get update[ENTER]
+$ sudo apt-get install python2.7[ENTER]
+
+***OpenCV***
+$ sudo apt-get install libopencv-dev python-opencv[ENTER]
