@@ -21,3 +21,4 @@ while(True):
 		break
 cap.realease()
 cv2.destroyAllWindows()
+  
